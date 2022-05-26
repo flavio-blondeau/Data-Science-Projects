@@ -1,3 +1,3 @@
 # Data-Science-Projects
 
-Here there are  some small projects in Python and R about dataset manipulation and statistics.
+Here there are  some small projects about dataset manipulation and statistics.
